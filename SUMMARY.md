@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [\[第一章 \]](di-yi-zhang.md)
+* [\[第一章 架构简介 \]](di-yi-zhang.md)
 
 
 
